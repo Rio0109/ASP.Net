@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Predavanje01_12_23/1.0.0": {
+        "runtime": {
+          "Predavanje01_12_23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Predavanje01_12_23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
