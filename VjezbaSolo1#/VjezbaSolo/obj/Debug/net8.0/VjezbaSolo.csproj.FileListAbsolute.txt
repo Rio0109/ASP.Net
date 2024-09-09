@@ -1,0 +1,21 @@
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\bin\Debug\net8.0\VjezbaSolo.exe
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\bin\Debug\net8.0\VjezbaSolo.deps.json
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\bin\Debug\net8.0\VjezbaSolo.runtimeconfig.json
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\bin\Debug\net8.0\VjezbaSolo.dll
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\bin\Debug\net8.0\VjezbaSolo.pdb
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.AssemblyInfoInputs.cache
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.AssemblyInfo.cs
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.csproj.CoreCompileInputs.cache
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.dll
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\obj\Debug\net8.0\refint\VjezbaSolo.dll
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.pdb
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.genruntimeconfig.cache
+C:\Users\ivaan\source\repos\VjezbaSolo\VjezbaSolo\obj\Debug\net8.0\ref\VjezbaSolo.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\VjezbaSolo1#\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\VjezbaSolo1#\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.AssemblyInfoInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\VjezbaSolo1#\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.AssemblyInfo.cs
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\VjezbaSolo1#\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.csproj.CoreCompileInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\VjezbaSolo1#\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\VjezbaSolo1#\VjezbaSolo\obj\Debug\net8.0\refint\VjezbaSolo.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\VjezbaSolo1#\VjezbaSolo\obj\Debug\net8.0\VjezbaSolo.pdb

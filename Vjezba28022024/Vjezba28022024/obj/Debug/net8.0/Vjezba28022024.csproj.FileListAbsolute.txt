@@ -1,0 +1,14 @@
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\obj\Debug\net8.0\Vjezba28022024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\obj\Debug\net8.0\Vjezba28022024.AssemblyInfoInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\obj\Debug\net8.0\Vjezba28022024.AssemblyInfo.cs
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\obj\Debug\net8.0\Vjezba28022024.csproj.CoreCompileInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\bin\Debug\net8.0\Vjezba28022024.exe
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\bin\Debug\net8.0\Vjezba28022024.deps.json
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\bin\Debug\net8.0\Vjezba28022024.runtimeconfig.json
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\bin\Debug\net8.0\Vjezba28022024.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\bin\Debug\net8.0\Vjezba28022024.pdb
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\obj\Debug\net8.0\Vjezba28022024.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\obj\Debug\net8.0\refint\Vjezba28022024.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\obj\Debug\net8.0\Vjezba28022024.pdb
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\obj\Debug\net8.0\Vjezba28022024.genruntimeconfig.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Vjezba28022024\Vjezba28022024\obj\Debug\net8.0\ref\Vjezba28022024.dll
