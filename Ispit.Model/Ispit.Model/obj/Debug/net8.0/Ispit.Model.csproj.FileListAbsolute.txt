@@ -1,0 +1,11 @@
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Ispit.Model\Ispit.Model\obj\Debug\net8.0\Ispit.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Ispit.Model\Ispit.Model\obj\Debug\net8.0\Ispit.Model.AssemblyInfoInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Ispit.Model\Ispit.Model\obj\Debug\net8.0\Ispit.Model.AssemblyInfo.cs
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Ispit.Model\Ispit.Model\obj\Debug\net8.0\Ispit.Model.csproj.CoreCompileInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Ispit.Model\Ispit.Model\bin\Debug\net8.0\Ispit.Model.deps.json
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Ispit.Model\Ispit.Model\bin\Debug\net8.0\Ispit.Model.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Ispit.Model\Ispit.Model\bin\Debug\net8.0\Ispit.Model.pdb
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Ispit.Model\Ispit.Model\obj\Debug\net8.0\Ispit.Model.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Ispit.Model\Ispit.Model\obj\Debug\net8.0\refint\Ispit.Model.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Ispit.Model\Ispit.Model\obj\Debug\net8.0\Ispit.Model.pdb
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Ispit.Model\Ispit.Model\obj\Debug\net8.0\ref\Ispit.Model.dll
