@@ -1,0 +1,14 @@
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\bin\Debug\net8.0\Predavanje11_12_23.exe
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\bin\Debug\net8.0\Predavanje11_12_23.deps.json
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\bin\Debug\net8.0\Predavanje11_12_23.runtimeconfig.json
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\bin\Debug\net8.0\Predavanje11_12_23.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\bin\Debug\net8.0\Predavanje11_12_23.pdb
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\obj\Debug\net8.0\Predavanje11_12_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\obj\Debug\net8.0\Predavanje11_12_23.AssemblyInfoInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\obj\Debug\net8.0\Predavanje11_12_23.AssemblyInfo.cs
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\obj\Debug\net8.0\Predavanje11_12_23.csproj.CoreCompileInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\obj\Debug\net8.0\Predavanje11_12_23.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\obj\Debug\net8.0\refint\Predavanje11_12_23.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\obj\Debug\net8.0\Predavanje11_12_23.pdb
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\obj\Debug\net8.0\Predavanje11_12_23.genruntimeconfig.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\Predavanje11_12_23\Predavanje11_12_23\obj\Debug\net8.0\ref\Predavanje11_12_23.dll

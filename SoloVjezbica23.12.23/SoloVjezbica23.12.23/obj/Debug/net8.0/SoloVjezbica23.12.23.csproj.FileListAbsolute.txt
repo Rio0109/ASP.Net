@@ -1,0 +1,14 @@
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\bin\Debug\net8.0\SoloVjezbica23.12.23.exe
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\bin\Debug\net8.0\SoloVjezbica23.12.23.deps.json
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\bin\Debug\net8.0\SoloVjezbica23.12.23.runtimeconfig.json
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\bin\Debug\net8.0\SoloVjezbica23.12.23.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\bin\Debug\net8.0\SoloVjezbica23.12.23.pdb
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\obj\Debug\net8.0\SoloVjezbica23.12.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\obj\Debug\net8.0\SoloVjezbica23.12.23.AssemblyInfoInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\obj\Debug\net8.0\SoloVjezbica23.12.23.AssemblyInfo.cs
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\obj\Debug\net8.0\SoloVjezbica23.12.23.csproj.CoreCompileInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\obj\Debug\net8.0\SoloVjezbica23.12.23.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\obj\Debug\net8.0\refint\SoloVjezbica23.12.23.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\obj\Debug\net8.0\SoloVjezbica23.12.23.pdb
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\obj\Debug\net8.0\SoloVjezbica23.12.23.genruntimeconfig.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\SoloVjezbica23.12.23\SoloVjezbica23.12.23\obj\Debug\net8.0\ref\SoloVjezbica23.12.23.dll

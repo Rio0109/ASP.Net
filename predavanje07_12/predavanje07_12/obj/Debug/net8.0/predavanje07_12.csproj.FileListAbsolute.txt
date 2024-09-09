@@ -1,0 +1,14 @@
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\obj\Debug\net8.0\predavanje07_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\obj\Debug\net8.0\predavanje07_12.AssemblyInfoInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\obj\Debug\net8.0\predavanje07_12.AssemblyInfo.cs
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\obj\Debug\net8.0\predavanje07_12.csproj.CoreCompileInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\bin\Debug\net8.0\predavanje07_12.exe
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\bin\Debug\net8.0\predavanje07_12.deps.json
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\bin\Debug\net8.0\predavanje07_12.runtimeconfig.json
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\bin\Debug\net8.0\predavanje07_12.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\bin\Debug\net8.0\predavanje07_12.pdb
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\obj\Debug\net8.0\predavanje07_12.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\obj\Debug\net8.0\refint\predavanje07_12.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\obj\Debug\net8.0\predavanje07_12.pdb
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\obj\Debug\net8.0\predavanje07_12.genruntimeconfig.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\predavanje07_12\predavanje07_12\obj\Debug\net8.0\ref\predavanje07_12.dll
