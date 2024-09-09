@@ -1,0 +1,11 @@
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\vjezba16112024\Kalkulator\bin\Debug\net8.0\Kalkulator.deps.json
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\vjezba16112024\Kalkulator\bin\Debug\net8.0\Kalkulator.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\vjezba16112024\Kalkulator\bin\Debug\net8.0\Kalkulator.pdb
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\vjezba16112024\Kalkulator\obj\Debug\net8.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\vjezba16112024\Kalkulator\obj\Debug\net8.0\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\vjezba16112024\Kalkulator\obj\Debug\net8.0\Kalkulator.AssemblyInfo.cs
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\vjezba16112024\Kalkulator\obj\Debug\net8.0\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\vjezba16112024\Kalkulator\obj\Debug\net8.0\Kalkulator.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\vjezba16112024\Kalkulator\obj\Debug\net8.0\refint\Kalkulator.dll
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\vjezba16112024\Kalkulator\obj\Debug\net8.0\Kalkulator.pdb
+C:\Users\ivaan\OneDrive\Radna površina\dev\algebra\vjezbe\vjezba16112024\Kalkulator\obj\Debug\net8.0\ref\Kalkulator.dll
